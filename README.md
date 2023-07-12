@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Sr. Gameplay Programmer<br>👯 I’m looking to collaborate on Gaming Projects<br>🌱 I’m always Learning. 5<br>💬 Ask me about Gaming, Meta-verse. <br>⚡ Fun fact - I Get Paid To Do What I Love. <br><br>
+🔭 I’m currently working as Sr. Gameplay Programmer<br>👯 I’m looking to collaborate on Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Meta-verse. <br>⚡ Fun fact - I Get Paid To Do What I Love. <br><br>
 **Awesome work Done:** <br>
 - I worked on **Play-to-win Games** (Must check out the Link) <br>
   **Link** : https://g-members.com/ <br>
