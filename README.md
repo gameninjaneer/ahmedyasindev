@@ -2,7 +2,7 @@
 🔭 I’m currently working as Sr. Gameplay Programmer<br>👯 I’m looking to collaborate on Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Meta-verse. <br>⚡ Fun fact - I Get Paid To Do What I Love. <br><br>
 **Awesome work Done:** <br>
 - I worked on **Play-to-win Games** (Must check out the Link) <br>
-  **Link** : https://g-members.com/ <br>
+  **Link** : https://g-members.com/games <br>
   **My Task**: Build the **Complete System of PLAY-TO-WIN** for every game - **Published 100+ Games** On the Website listed above  <br> <br>
   
 - Some of My Games for Both Android and IOS PlateForm are here <br>
