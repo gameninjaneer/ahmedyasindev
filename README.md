@@ -3,8 +3,8 @@
 **Awesome work Done:** <br>
 - I worked on **Play-to-win Games** (Must check out the Link) <br>
   **Link** : https://g-members.com/ <br>
-  **My Task**: Build the **Complete System of PLAY-TO-WIN** for every game - **Published 100+ Games** On the Website listed above  <br>
-Some of My Games for Both Android and IOS PlateForm
+  **My Task**: Build the **Complete System of PLAY-TO-WIN** for every game - **Published 100+ Games** On the Website listed above  <br> <br>
+- Some of My Games for Both Android and IOS PlateForm
 https://apps.apple.com/us/app/real-gangster-crime-city-game/id6446798878
 
 ## 🌐 Socials:
