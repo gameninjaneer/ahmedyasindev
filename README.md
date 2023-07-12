@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working as Sr. Gameplay Programmer<br>👯 I’m looking to collaborate on Gaming Projects<br>🌱 I’m always Learning. 5<br>💬 Ask me about Gaming, Meta-verse. <br>⚡ Fun fact - I Get Paid To Do What I Love.
-**Awesome work Done:**
-- I worked on Play-to-win Games (Must check out the Link)
-  **Link** : https://g-members.com/
-  **My Task**: Build the **Complete System of PLAY-TO-WIN** for every game - **Published 100+ Games** On the Website listed above 
+🔭 I’m currently working as Sr. Gameplay Programmer<br>👯 I’m looking to collaborate on Gaming Projects<br>🌱 I’m always Learning. 5<br>💬 Ask me about Gaming, Meta-verse. <br>⚡ Fun fact - I Get Paid To Do What I Love. <br>
+**Awesome work Done:** <br>
+- I worked on Play-to-win Games (Must check out the Link) <br>
+  **Link** : https://g-members.com/ <br>
+  **My Task**: Build the **Complete System of PLAY-TO-WIN** for every game - **Published 100+ Games** On the Website listed above  <br>
 Some of My Games for Both Android and IOS PlateForm
 https://apps.apple.com/us/app/real-gangster-crime-city-game/id6446798878
 
