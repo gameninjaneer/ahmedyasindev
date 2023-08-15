@@ -4,7 +4,14 @@
 - I worked on **Play-to-win Games** (Must check out the Link) <br>
   **Link** : https://g-members.com/games <br> <br>
   **My Task**: Build the **Complete System of PLAY-TO-WIN** for every game - **Published 100+ Games** On the Website listed above  <br> <br>
-  
+
+
+  <br> Some of the Game Categories i have worked on , in Both 2D and 3D <br>
+  Action <br>
+  Horror <br>
+  Puzzle <br>
+  Simulation <br>
+  Shooting <br> <br> 
 - Some of My Games for Both Android and IOS PlateForm are here <br>
 https://g-members.com/games <br>
        https://play.google.com/store/apps/details?id=com.srg.gangster.mafia.city.crime.games <br>
