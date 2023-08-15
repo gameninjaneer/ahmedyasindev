@@ -10,6 +10,7 @@
   Action <br>
   Horror <br>
   Puzzle <br>
+  Strategy <br>
   Simulation <br>
   Shooting <br> <br> 
 - Some of My Games for Both Android and IOS PlateForm are here <br>
