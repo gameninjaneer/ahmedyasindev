@@ -1,15 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working as Sr. Gameplay Programmer<br>👯 I’m looking to collaborate on Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Play-to-win, BlockChain Games, Crypto Based Games. <br>⚡ Fun fact - I Get Paid To Do What I Love. <br><br>
+🔭 I’m currently working as Sr. Unity Engineer in Dubai, UAE <br>👯 I’m looking to collaborate on Innovative Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Play-to-win, BlockChain Games, Crypto Based Games. <br>
+⚡ Fun fact - I Get Paid To Do What I Love. <br><br>
 **Awesome work Done:** <br>
-- I worked on **Play-to-win Games** **Play-to-win Games**  <br>
-- I worked on **Crypto Based Games** (Must check out the Link) <br>
-- I have experience with metamask (Eth blockchain tokens) and BTC (ZeBeDee Wallet) based Projects Recently.  (Must check out the Link) <br><br>
+- I have worked on **Play-to-win Games** **Play-to-win Games**  <br>
+- I have worked on **Crypto Based Games** (Must check out the Link) <br>
+- I have recent Experience with metamask (Eth blockchain tokens) and BTC (ZeBeDee Wallet) based Projects.  (Must check out the Link) <br><br>
 
    **Link** : https://senetsystem.com/ <br> <br>
  
 - I consider myself a Team Player, with Experience working from **Designing the System** with Backend Experts to **Integration of System** as End-Product.
 
-<br>
 <br>
 
 Throughout my journey, I've ventured into the dynamic realm of emerging technologies, leaving an indelible mark on various projects.  <br>
