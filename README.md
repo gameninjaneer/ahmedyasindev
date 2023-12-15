@@ -1,19 +1,39 @@
 # 💫 About Me:
-🔭 I’m currently working as Sr. Gameplay Programmer<br>👯 I’m looking to collaborate on Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Play-to-win. <br>⚡ Fun fact - I Get Paid To Do What I Love. <br><br>
+🔭 I’m currently working as Sr. Gameplay Programmer<br>👯 I’m looking to collaborate on Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Play-to-win, BlockChain Games, Crypto Based Games. <br>⚡ Fun fact - I Get Paid To Do What I Love. <br><br>
 **Awesome work Done:** <br>
-- I worked on **Play-to-win Games** (Must check out the Link) <br>
-  **Link** : https://g-members.com/games <br> <br>
-  **My Task**: Build the **Complete System of PLAY-TO-WIN** for every game - **Published 100+ Games** On the Website listed above  <br> <br>
+- I worked on **Play-to-win Games** **Play-to-win Games**  <br>
+- I worked on **Crypto Based Games** (Must check out the Link) <br>
+- I have experience with metamask (Eth blockchain tokens) and BTC (ZeBeDee Wallet) based Projects Recently.  (Must check out the Link) <br><br>
 
+   **Link** : https://senetsystem.com/ <br> <br>
+ 
+- I consider myself a Team Player, with Experience working from **Designing the System** with Backend Experts to **Integration of System** as End-Product.
 
-  <br> Some of the Game Categories i have worked on , in Both 2D and 3D <br>
-  Action <br>
-  Horror <br>
-  Puzzle <br>
-  Strategy <br>
-  Simulation <br>
-  Shooting <br> <br> 
-- Some of My Games for Both Android and IOS PlateForm are here <br>
+<br>
+<br>
+
+Throughout my journey, I've ventured into the dynamic realm of emerging technologies, leaving an indelible mark on various projects.  <br>
+
+🕹️ Blockchain Games: Spearheaded groundbreaking initiatives in the realm of blockchain games, leveraging decentralized technology to redefine the gaming landscape. <br>
+
+💸 Play-to-Earn Games: Pioneered the development of play-to-earn gaming experiences, transforming traditional gameplay into rewarding ecosystems. <br>
+
+🔗 MetaMask & Smart Contracts: Delved into the intricacies of MetaMask and Ethereum blockchain, architecting solutions through smart contracts and NFT-based projects that push the boundaries of interactive experiences. <br>
+
+💱 SNT Token Integration: Led projects involving SNT token, a cryptocurrency on the Ethereum blockchain, seamlessly incorporating it into gaming ecosystems for enhanced functionality and user engagement. <br>
+
+🚀 Collaborative Backend Development: Orchestrated seamless collaboration with backend developers to construct robust systems and streamline system flows for optimal performance across diverse projects. <br>
+
+ <br>
+  <br>
+**So i Invite you to Embark on a journey with me as we transcend the boundaries of gaming innovation, fusing creativity with technology to shape the future of interactive experiences**
+
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+- Some of My Games for Both Android and IOS PlateForm using Unity-Engine C# are here <br>
 https://g-members.com/games <br>
        https://play.google.com/store/apps/details?id=com.srg.gangster.mafia.city.crime.games <br>
        https://play.google.com/store/apps/details?id=com.frp.horse.racing.championship      <br>
