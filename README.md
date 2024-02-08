@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as Sr. Unity Engineer in Dubai, UAE <br>👯 I’m looking to collaborate on Innovative Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Play-to-win, BlockChain Games, Crypto Based Games. <br>
-⚡ Fun fact - I Get Paid To Do What I Love. <br><br>
+<br>
 **Awesome work Done:** <br>
 - I have worked on **Play-to-win Games** **Play-to-win Games**  <br>
 - I have worked on **Crypto Based Games** (Must check out the Link) <br>
