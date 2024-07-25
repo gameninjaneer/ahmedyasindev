@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Sr. Unity Engineer in Dubai, UAE <br>👯 I’m looking to collaborate on Innovative Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Play-to-win, BlockChain Games, Crypto Based Games. <br>
+🔭 I’m currently working as TEAM LEAD (Sr. Unity Engineer) in SRG GAMING LLC (Dubai), UAE <br>👯 I’m looking to collaborate on Innovative Gaming Projects<br>🌱 I’m always Learning.<br>💬 Ask me about Gaming, Play-to-win, BlockChain Games, Crypto Based Games. <br>
 <br>
 **Awesome work Done:** <br>
 - I have worked on **Play-to-win Games** **Play-to-win Games**  <br>
@@ -14,11 +14,11 @@
 
 Throughout my journey, I've ventured into the dynamic realm of emerging technologies, leaving an indelible mark on various projects.  <br>
 
-🕹️ Blockchain Games: Spearheaded groundbreaking initiatives in the realm of blockchain games, leveraging decentralized technology to redefine the gaming landscape. <br>
-
 💸 Play-to-Earn Games: Pioneered the development of play-to-earn gaming experiences, transforming traditional gameplay into rewarding ecosystems. <br>
 
-🔗 MetaMask & Smart Contracts: Delved into the intricacies of MetaMask and Ethereum blockchain, architecting solutions through smart contracts and NFT-based projects that push the boundaries of interactive experiences. <br>
+🕹️ Blockchain Games: Spearheaded groundbreaking initiatives in the realm of blockchain games, leveraging decentralized technology to redefine the gaming landscape. <br>
+
+🔗 MetaMask & Smart Contracts Integration: Delved into the intricacies of MetaMask and Ethereum blockchain, architecting solutions through smart contracts and NFT-based projects that push the boundaries of interactive experiences. <br>
 
 💱 SNT Token Integration: Led projects involving SNT token, a cryptocurrency on the Ethereum blockchain, seamlessly incorporating it into gaming ecosystems for enhanced functionality and user engagement. <br>
 
