@@ -14,9 +14,10 @@
 
 Throughout my journey, I've ventured into the dynamic realm of emerging technologies, leaving an indelible mark on various projects.  <br>
 
-🕹️ Blockchain Games: Spearheaded groundbreaking initiatives in the realm of blockchain games, leveraging decentralized technology to redefine the gaming landscape. <br>
 
 💸 Play-to-Earn Games: Pioneered the development of play-to-earn gaming experiences, transforming traditional gameplay into rewarding ecosystems. <br>
+
+🕹️ Blockchain Games: Spearheaded groundbreaking initiatives in the realm of blockchain games, leveraging decentralized technology to redefine the gaming landscape. <br>
 
 🔗 MetaMask & Smart Contracts: Delved into the intricacies of MetaMask and Ethereum blockchain, architecting solutions through smart contracts and NFT-based projects that push the boundaries of interactive experiences. <br>
 
